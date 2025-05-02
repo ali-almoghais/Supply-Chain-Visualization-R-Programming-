@@ -1,4 +1,4 @@
-# Supply Chain Data Visualization (RStudio)  
+# Supply Chain Visualization (R Programming)
 
 ## Overview  
 This project analyzes supply chain data using R to identify inefficiencies, optimize supplier performance, and improve logistics operations.
